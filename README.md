@@ -13,11 +13,11 @@
 
 #### Сервис должен хранить следующую информацию про каждого пользователя: логин, хеш пароля (лучше с солью), дату регистрации.
 #### Здесь мы же сделали хеширование пароля для нового пользоваеля, которого создавали выше
-![image](https://user-images.githubusercontent.com/76069143/146652666-ba21d251-afbf-4107-bdb7-5d7003337b4d.png)
+![image](https://github.com/dvaisluk/8-CreateMicroservice/blob/main/pho/1.png)
 #### Настройте веб-сервер по Вашему выбору (Apache2 или nginx) таким образом, чтобы он поддерживал соединение по протоколу HTTPS. Для этого сгенирируйте самоподписанный сертификат SSL
-![image](https://user-images.githubusercontent.com/76069143/146652759-c8f4c47e-65cc-4f13-bc12-0df1db70d9c8.png)
-![image](https://user-images.githubusercontent.com/76069143/146652849-0636b8e3-cd4a-41a2-9072-15ebd799a46b.png)
-![image](https://user-images.githubusercontent.com/76069143/146652952-041e3de9-7585-41fd-ac86-e0b3c8ebc169.png)
+![image](https://github.com/dvaisluk/8-CreateMicroservice/blob/main/pho/2.png)
+![image](https://github.com/dvaisluk/8-CreateMicroservice/blob/main/pho/3.png)
+![image](https://github.com/dvaisluk/8-CreateMicroservice/blob/main/pho/4.png)
 ![image](https://user-images.githubusercontent.com/76069143/146652961-2d42f259-895a-449f-8f5a-feca73ac2de7.png)
 #### Поддержка защищенного соединения, если попробуем зайти с несуществующего пользователя
 ![image](https://user-images.githubusercontent.com/76069143/146653088-706d16b5-cda5-4ee1-98aa-9359a11119cd.png)
